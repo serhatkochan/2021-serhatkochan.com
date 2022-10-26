@@ -1,0 +1,5 @@
+User-agent: *
+Allow : /
+Disallow : /admin.php
+Disallow : /img
+Sitemap : http://www.serhatkochan.com/sitemap.xml
